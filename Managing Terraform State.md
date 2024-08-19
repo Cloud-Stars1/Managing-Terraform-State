@@ -7,7 +7,7 @@
 export REGION=
 ```
 ```
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Managing%20Terraform%20State/gsp752.sh
+curl -LO raw.githubusercontent.com/Cloud-Stars1/Managing-Terraform-State/blob/4b6273b69926448209dfa9e6052bcc949260537d/GSP752.sh
 
 sudo chmod +x GSP752.sh
 
