@@ -89,6 +89,6 @@ echo "${RED}${BOLD}Congratulations${RESET}" "${WHITE}${BOLD}for${RESET}" "${GREE
 
 #### *Well done!*
 
-#### Don't Forget to Join the [Telegram Channel](https://t.me/cloudstars24) & [Discussion group](t.me/cloudstarschat)
+#### Don't Forget to Join the [Telegram Channel](https://t.me/cloudstars24) & [Discussion group](https://t.me/cloudstarschat)
 
 ## [CLOUD STARS](https://www.youtube.com/@cloud-stars)
